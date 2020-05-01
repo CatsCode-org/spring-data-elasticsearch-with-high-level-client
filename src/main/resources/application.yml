@@ -1,0 +1,5 @@
+elastic-client:
+  timeout: 30000
+  host: localhost
+  port: 9200
+  schema: http
